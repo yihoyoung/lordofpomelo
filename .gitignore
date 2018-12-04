@@ -13,3 +13,5 @@ node_modules/*
 *.swp
 .DS_Store
 .idea
+mysql/
+web-server/public/js/lib/
